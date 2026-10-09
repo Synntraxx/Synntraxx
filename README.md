@@ -1,14 +1,10 @@
-- 👋 Hi, I’m @MatthisSanier
-- 👀 I’m interested in front-end development and creative coding.
-- 🌱 I’m currently learning advanced front-end techniques and exploring new design trends.
-- 🤝 I’m looking to collaborate on innovative web projects.
-- 📫 How to reach me: saniermatthis@gmail.com
-- 😊 Pronouns: He/Him
-- ⚡ Fun fact: I’ve touched every type of code, but front-end is where I thrive!
+# Matthis Sanier
 
-| My Current Project |
+Passionné par le développement web, l'ergonomie et les interfaces soignées.
 
-I am actively developing Luminix.app, a web application for instant messaging. 
-The project has been in progress since June and is built using technologies like PHP, JavaScript, Node.js, CSS, and more. 
-Initially, I leveraged AI assistance to kickstart the development, but over time, I’ve learned to handle most aspects myself. 
-Notably, the entire front-end of the application is 100% crafted by me. While the site is still under development, you can check it out at Luminix.app.
+-  **Front-end 100 % fait main :** sur tous mes projets, l'intégralité du front est conçue et codée par mes soins (HTML, CSS sur mesure, JavaScript, responsive design).
+-  **Côté back :** j'ai souvent recours à l'IA pour m'épauler sur la logique serveur ou les bases de données, mais mon objectif actuel est de monter en compétences en backend (PHP, Node.js, SQL) pour devenir totalement autonome et m'en détacher.
+-  **En ce moment :** développement de nouveaux projets perso et approfondissement de mes bases serveur.
+
+---
+Contact : saniermatthis@gmail.com
